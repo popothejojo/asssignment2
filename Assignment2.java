@@ -15,16 +15,15 @@ public class Assignment2 {
 		String[][] array2 = populatearray(files[1]); // populates second array with second file
 		printArray(array2, row, col, "File 2");
 
-		System.out.println(
-				"------------------------------ Combined Songs Sorted Alpabetically ---------------------------");
+		System.out.println("------------------------------ Combined Songs Sorted Alpabetically ---------------------------");
 
 		ArrayList<String> songNames = combineSongs(array1, array2, row, col);
 		Collections.sort(songNames); // sorting combined files
 
-		for (int i = 0; i < songNames.size(); i++) // printing combined files
+		for (int i = 0; i < songNames.size(); i++) 			// printing combined files
 			System.out.println(songNames.get(i));
 
-		listenToSong(songNames);
+		listenToSong(songNames);	//listening to songs through playlist
 
 	}
 
