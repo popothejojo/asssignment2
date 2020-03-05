@@ -1,0 +1,21 @@
+1  Blinding_Lights   		The_Weeknd     	        43653241 https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+2  Dance_Monkey  		 Tones_and_I  		40578037 https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+3  The_Box  			 Roddy_Ricch  		39857901 https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+4  Don't_Start_Now  		 Dua_Lipa  		32565008 https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+5  Intentions_(feat. Quavo)   Justin_Bieber     	31250257 https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV
+6 Tusa  		KARO_ G  			28807586 https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY
+7  After_Hours   	The_Weeknd  			27647920 https://open.spotify.com/track/4ejyZ4uJEXUURcgKp1kP8v
+8 Falling  		Trevor_Daniel  			26592499 https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa
+9 ROXANNE 		 Arizona_Zervas  		25517030 https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+10  No_Time_To_Die     Billie_Eilish     	        25455582 https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR
+11 Yummy  		Justin_Bieber 			22886859 https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR
+12  Life_Is_Good_(feat. Drake)  Future           	 21404894 https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc
+13  everything_i_wanted   Billie_Eilish		        21349420 https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ
+14 Circles 		 Post_Malone  			20243969 https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+15 Ignorantes  		Bad_Bunny  			19993952 https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct
+16  Someone_You_Loved   Lewis_Capaldi  		        19624844 https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+17  Say_So  	 	Doja_Cat  			18761305 https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+18  Memories 		 Maroon_5  			18651351 https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM
+19  Godzilla_(feat. Juice WRLD)   Eminem 		18451953 https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
+
+
